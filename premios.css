@@ -10,7 +10,21 @@
   body{
     background-color: rgb(36, 36, 36);
   }
-  
+
+  nav{
+    width: 100%;
+    margin-left: 5em;
+    margin-top: 1em;
+  }
+  li {
+    list-style: none;
+  }
+  a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #FFFFFF;
+  }
   section{
     width: 100%;
     height: 100vh;
